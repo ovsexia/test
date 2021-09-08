@@ -14,5 +14,6 @@
             "email": "ovsexia@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
